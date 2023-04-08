@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/cloudxbuddha/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cloudxbuddha/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cloudxbuddha/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cloudxbuddha/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cloudxbuddha/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Azure File Permissions](https://github.com/cloudxbuddha/Azure-File-Permissions)
   - [Microsoft Azure Storage Account](https://github.com/cloudxbuddha/Microsoft-Azure-Storage-Account/blob/main/README.md)
