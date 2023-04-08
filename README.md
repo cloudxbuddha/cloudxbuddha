@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cloudxbuddha/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cloudxbuddha/azure-network-protocols)
   - [Azure File Permissions](https://github.com/cloudxbuddha/Azure-File-Permissions)
-  - [Microsoft Azure Storage Account]
+  - [Microsoft Azure Storage Account](https://github.com/cloudxbuddha/Microsoft-Azure-Storage-Account/blob/main/README.md)
 
 
 <h2>🤳Connect with me:</h2>
